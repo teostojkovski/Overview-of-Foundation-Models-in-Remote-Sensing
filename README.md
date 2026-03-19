@@ -2,7 +2,7 @@
 
 This repository contains the published paper **"Overview of Foundation Models in Remote Sensing"**, accepted at CIIT 2025.
 
-**Paper**: [Overview of Foundation Models in Remote Sensing](https://github.com/teostojkovski/Overview-of-Foundation-Models-in-Remote-Sensing/blob/master/Overview%20of%20Foundation%20Models%20in%20Remote%20Sensing.pdf)
+**Paper**: [Overview of Foundation Models in Remote Sensing](https://ciit.finki.ukim.mk/proceedings/ciit-2025-proceedings.pdf#page=185)
 
 ## Abstract
 
